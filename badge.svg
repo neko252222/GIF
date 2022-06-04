@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" baseProfile="basic" id="レイヤー_1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15 2"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 153 20"
 	 xml:space="preserve">
 <style type="text/css">
 	.st0{fill:url(#workflow-bg_1_);}
 	.st1{fill:url(#state-bg_1_);}
 	.st2{font-family:'KozGoPr6N-Regular-90ms-RKSJ-H';}
-	.st3{font-size:1.1765px;}
+	.st3{font-size:12px;}
 	.st4{fill:#FFFFFF;}
 	.st5{fill:#959DA5;}
 </style>
-<linearGradient id="workflow-bg_1_" gradientUnits="userSpaceOnUse" x1="-239.6004" y1="239.5794" x2="-239.6004" y2="239.4814" gradientTransform="matrix(103 0 0 -20 24684 4791.5884)">
+<linearGradient id="workflow-bg_1_" gradientUnits="userSpaceOnUse" x1="-170.8091" y1="249.05" x2="-170.8091" y2="248.05" gradientTransform="matrix(103 0 0 -20 17646 4981)">
 	<stop  offset="0" style="stop-color:#444D56"/>
 	<stop  offset="1" style="stop-color:#24292E"/>
 </linearGradient>
-<path id="workflow-bg" class="st0" d="M0,0.3C0,0.1,0.1,0,0.3,0h10v2h-10C0.1,2,0,1.8,0,1.7V0.3z"/>
-<linearGradient id="state-bg_1_" gradientUnits="userSpaceOnUse" x1="-238.9668" y1="239.5794" x2="-238.9668" y2="239.4814" gradientTransform="matrix(50 0 0 -20 11961 4791.5884)">
+<path id="workflow-bg" class="st0" d="M0,3c0-1.7,1.4-3,3.1-3h102.2v20H3.1C1.4,20,0,18.7,0,17V3z"/>
+<linearGradient id="state-bg_1_" gradientUnits="userSpaceOnUse" x1="-169.0168" y1="249.05" x2="-169.0168" y2="248.05" gradientTransform="matrix(50 0 0 -20 8580 4981)">
 	<stop  offset="0" style="stop-color:#58A9F2"/>
 	<stop  offset="1" style="stop-color:#5865F2"/>
 </linearGradient>
-<path id="state-bg" class="st1" d="M10.3,0h4.4C14.9,0,15,0.1,15,0.3v1.4C15,1.8,14.9,2,14.7,2h-4.4V0z"/>
+<path id="state-bg" class="st1" d="M105.3,0h44.8c1.6,0,2.9,1.3,2.9,3v14c0,1.7-1.3,3-2.9,3h-44.8V0z"/>
 <g id="レイヤー_3">
-	<text transform="matrix(1 0 0 1 10.7451 1.4653)" class="st2 st3">Inside</text>
-	<text transform="matrix(1 0 0 1 10.7451 1.3725)" class="st4 st2 st3">Inside</text>
+	<text transform="matrix(1 0 0 1 109.6003 14.9477)" class="st2 st3">Inside</text>
+	<text transform="matrix(1 0 0 1 109.6001 14.0004)" class="st4 st2 st3">Inside</text>
 </g>
 <g id="レイヤー_2">
-	<text id="Discord_Server" transform="matrix(1 0 0 1 2.2324 1.5116)" class="st2 st3">Discord  bot</text>
-	<text transform="matrix(1 0 0 1 2.2324 1.4189)" class="st4 st2 st3">Discord  bot</text>
+	<text id="Discord_Server" transform="matrix(1 0 0 1 22.7685 15.4211)" class="st2 st3">Discord  bot</text>
+	<text transform="matrix(1 0 0 1 22.7684 14.4737)" class="st4 st2 st3">Discord  bot</text>
 </g>
 <g>
-	<path class="st5" d="M1.6,0.5c-0.1,0-0.2-0.1-0.3-0.1c0,0,0,0.1,0,0.1c-0.1,0-0.2,0-0.4,0c0,0,0-0.1,0-0.1c-0.1,0-0.2,0.1-0.3,0.1
-		C0.3,0.8,0.3,1.1,0.3,1.4c0.1,0.1,0.3,0.2,0.4,0.2c0,0,0.1-0.1,0.1-0.1c0,0-0.1,0-0.1-0.1c0,0,0,0,0,0c0.3,0.1,0.5,0.1,0.8,0
-		c0,0,0,0,0,0c0,0-0.1,0-0.1,0.1c0,0,0.1,0.1,0.1,0.1c0.1,0,0.3-0.1,0.4-0.2C1.9,1,1.8,0.7,1.6,0.5z M0.8,1.2C0.7,1.2,0.7,1.1,0.7,1
-		s0.1-0.2,0.1-0.2C0.9,0.9,1,1,1,1C1,1.1,0.9,1.2,0.8,1.2z M1.3,1.2C1.3,1.2,1.2,1.1,1.2,1s0.1-0.2,0.1-0.2C1.4,0.9,1.5,1,1.5,1
-		C1.5,1.1,1.4,1.2,1.3,1.2z"/>
+	<path class="st5" d="M16.6,4.8c-1-0.5-2.1-0.8-3.3-1c-0.1,0.3-0.3,0.6-0.4,0.9c-1.2-0.2-2.5-0.2-3.7,0C9.1,4.4,8.9,4.1,8.7,3.8
+		C7.6,4,6.5,4.4,5.4,4.8C3.4,8,2.8,11.1,3.1,14.1c1.4,1,2.7,1.7,4,2.1c0.3-0.4,0.6-0.9,0.9-1.4c-0.5-0.2-0.9-0.4-1.4-0.7
+		C6.7,14,6.8,13.9,7,13.8c2.6,1.2,5.5,1.2,8.1,0c0.1,0.1,0.2,0.2,0.3,0.3c-0.4,0.3-0.9,0.5-1.4,0.7c0.3,0.5,0.5,1,0.9,1.4
+		c1.3-0.4,2.7-1,4.1-2.1C19.3,10.6,18.4,7.5,16.6,4.8z M8.3,12.3c-0.8,0-1.4-0.7-1.4-1.6C6.9,9.7,7.5,9,8.3,9c0.8,0,1.5,0.7,1.4,1.6
+		C9.8,11.5,9.1,12.3,8.3,12.3z M13.7,12.3c-0.8,0-1.4-0.7-1.4-1.6c0-0.9,0.6-1.6,1.4-1.6c0.8,0,1.5,0.7,1.4,1.6
+		C15.1,11.5,14.5,12.3,13.7,12.3z"/>
 </g>
 </svg>
